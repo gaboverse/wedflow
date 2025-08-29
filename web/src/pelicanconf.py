@@ -40,7 +40,7 @@ WEDDINGS_INDEX_SAVE_AS = "weddings/index.html"
 # +-------+
 # | Theme |
 # +-------+
-THEME = "notmyidea"
+THEME = "simple"
 
 
 # +---------------+
